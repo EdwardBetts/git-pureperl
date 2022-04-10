@@ -529,7 +529,7 @@ It was mostly based on Grit L<http://grit.rubyforge.org/>.
 
 =back
 
-=head1 MAINTAINANCE
+=head1 MAINTENANCE
 
 This module is maintained in git at L<http://github.com/broquaint/git-pureperl/>.
 
